@@ -1,5 +1,6 @@
 # 📊 Customer Review Sentiment Analyzer
 
+![Dashboard screenshot](Screenshot.png) 
 A tool that analyzes customer reviews and instantly shows small business owners what customers love — and what's frustrating them.
 
 **🔗 Live app:** https://review-sentiment-analyzer-tuvfbywczntjtbfq5tpsfy.streamlit.app
